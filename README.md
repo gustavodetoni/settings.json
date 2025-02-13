@@ -8,9 +8,6 @@
     "editor.rulers": [120,160],
     "workbench.startupEditor": "newUntitledFile",
     "editor.minimap.enabled": false,
-    "[vue]": {
-        "editor.defaultFormatter": "Vue.volar"
-    },
     "emmet.triggerExpansionOnTab": true,
     "workbench.colorTheme": "Omni",
     "explorer.compactFolders": false,
