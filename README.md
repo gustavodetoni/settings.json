@@ -51,7 +51,6 @@
     "workbench.navigationControl.enabled": false,
     "chat.commandCenter.enabled": false,
     "editor.tabSize": 2,
-    //down status bar
     "workbench.statusBar.visible": false,
     "editor.cursorStyle": "block",
     "workbench.colorTheme": "GitHub Dark"
